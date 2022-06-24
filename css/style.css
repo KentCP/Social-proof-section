@@ -106,7 +106,7 @@ img {
 }
 
 .descr {
-  font-weight: 600;
+/*   font-weight: 600; */
   color: var(--light-color);
   padding: 1rem .5rem;
 }
@@ -365,6 +365,10 @@ footer p {
 
   .testmonial:last-of-type {
     margin-top: 6rem;
+  }
+  
+  .review p {
+    white-space: no-wrap;
   }
 
 
