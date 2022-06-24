@@ -285,6 +285,7 @@ footer p {
 
   .review p {
     padding: unset;
+    white-space: nowrap;
     line-height: normal;
     
   }
@@ -367,8 +368,8 @@ footer p {
     margin-top: 6rem;
   }
   
-  .review p {
-    white-space: no-wrap;
+  .review p:nth-of-type(2) {
+    white-space: nowrap;
   }
 
 
