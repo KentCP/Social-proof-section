@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/KentCP/Social-proof-section.git](https://github.com/KentCP/Social-proof-section.git)
-- Live Site URL: [kentssocialproof.netlify.app](https://your-live-site-url.com)
+- Live Site URL: [kentssocialproof.netlify.app](kentssocialproof.netlify.app)
 
 ## My process
 
@@ -54,4 +54,4 @@ Read the full [License](https://github.com/KentCP/Social-proof-section/blob/main
 ## Author
 
 - Frontend Mentor - [@KentCP](https://www.frontendmentor.io/profile/KentCP)
-- Twitter - [@KentChuna](https://www.twitter.com/KentChunga)
+- Twitter - [@KentChunga](https://www.twitter.com/KentChunga)
