@@ -338,7 +338,7 @@ footer p {
 
   .review {
     text-align: left;
-    padding: 1rem 0;
+    padding: 1rem 0.5rem;
   }
 
   .review  .flex {
