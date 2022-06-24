@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/KentCP/Social-proof-section.git](https://github.com/KentCP/Social-proof-section.git)
-- Live Site URL: [kentssocialproof.netlify.app](kentssocialproof.netlify.app)
+- Live Site URL: [https://kentssocialproof.netlify.app/](https://kentssocialproof.netlify.app/)
 
 ## My process
 
