@@ -10,6 +10,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+- [License](#license)
 - [Author](#author)
 
 
@@ -32,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/KentCP/Social-proof-section.git](https://github.com/KentCP/Social-proof-section.git)
+- Live Site URL: [kentssocialproof.netlify.app](https://your-live-site-url.com)
 
 ## My process
 
@@ -44,6 +45,11 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+
+## Licence
+
+This project is licensed under the terms of the MIT license.
+Read the full [License](https://github.com/KentCP/Social-proof-section/blob/main/LICENSE).
 
 ## Author
 
